@@ -1,1 +1,0 @@
-This is the ReadMe2.txt files contents.
